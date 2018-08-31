@@ -1,0 +1,16 @@
+{
+  "name": "drumkit",
+  "version": "1.0.0",
+  "description": "A simple vanilla javascript keyboard drumkit",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "opn": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jimmie Gisclair"
+}
